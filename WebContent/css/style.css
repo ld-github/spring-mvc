@@ -1,0 +1,36 @@
+html {
+    height: 100%;
+}
+
+body {
+    font-family: adelle-sans, Source Sans Pro, Helvetica Neue, sans-serif;
+    font-size: 1.4em;
+    height: 100%;
+    padding: 5px;
+    padding-top: 10px;
+}
+
+hr {
+    border-style: inset;
+    border-width: 1px;
+    border-color: #D2D2D2;
+    border-top-color: rgb(210, 210, 210);
+    border-right-color: rgb(210, 210, 210);
+    border-bottom-color: rgb(210, 210, 210);
+    border-left-color: rgb(210, 210, 210);
+    opacity: .2;
+    display: block;
+    margin: 0;
+}
+
+a input button {
+    outline: none !important;
+}
+
+a:FOCUS {
+    outline: none !important;
+}
+
+.row-select {
+    background-color: #CCCCCC !important;
+}
